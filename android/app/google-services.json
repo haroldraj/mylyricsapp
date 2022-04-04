@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673542709627",
+    "project_id": "mylyricsapp-e80fb",
+    "storage_bucket": "mylyricsapp-e80fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673542709627:android:46ef9e7d47728447141dde",
+        "android_client_info": {
+          "package_name": "com.haroldrajcoding.lyricsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673542709627-r6k07gs8uvrqmmkgbjbl98ss5rs4pquj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR7qrjFm4XgY3UYwFQi8W0SRVLXJWZ8yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673542709627-r6k07gs8uvrqmmkgbjbl98ss5rs4pquj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
